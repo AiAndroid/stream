@@ -597,7 +597,7 @@
                 }
             ],
             "images": { },
-            "name": "推荐",
+            "name": 游戏,
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1261,7 +1261,7 @@
                 }
             ],
             "images": { },
-            "name": "视频推荐",
+            "name": "视频",
             "times": {
                 "updated": 0,
                 "created": 0
