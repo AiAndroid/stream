@@ -1308,7 +1308,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "5",
                     "type": "category",
@@ -1342,7 +1342,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "2",
                     "type": "category",
@@ -1376,7 +1376,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "4",
                     "type": "category",
@@ -1411,7 +1411,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "7",
                     "type": "category",
@@ -1445,7 +1445,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "3",
                     "type": "category",
@@ -1474,7 +1474,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "8",
                     "type": "category",
@@ -1503,7 +1503,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "1",
                     "type": "category",
@@ -1532,7 +1532,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "17",
                     "type": "category",
@@ -1561,7 +1561,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "18",
                     "type": "category",
@@ -1590,7 +1590,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "19",
                     "type": "category",
@@ -1619,7 +1619,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell"
                     },
                     "id": "20",
                     "type": "category",
