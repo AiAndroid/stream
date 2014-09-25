@@ -984,23 +984,8 @@
                         "type": "item"
                     },
                     "images": {
-                        "text": {
-                            "url": "",
-                            "ani": { },
-                            "pos": { }
-                        },
-                        "icon": {
-                            "url": "",
-                            "ani": { },
-                            "pos": { }
-                        },
                         "back": {
                             "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01shnaa7gKl/98UnssjDNwXMAZ.png",
-                            "ani": { },
-                            "pos": { }
-                        },
-                        "spirit": {
-                            "url": "",
                             "ani": { },
                             "pos": { }
                         }
