@@ -1446,7 +1446,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/4fdd41ca-094f-493b-aee0-07adb867f24b/b384560fd712a285c5107945618f358d.png",
+                            "url": "http://file.market.xiaomi.com/download/541/c281cf4dc153518ebbfc1de15ea59aaff09fa6bc/content_sort_music_bg.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
                             "ani": { },
                             "pos": { }
                         }
@@ -1475,7 +1480,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/541/c281cf4dc153518ebbfc1de15ea59aaff09fa6bc/content_sort_music_bg.png",
+                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
                             "ani": { },
                             "pos": { }
                         }
