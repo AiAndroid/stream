@@ -1330,12 +1330,15 @@
                             "pos": {"x":0, "y":345 }
                         }
                     },
-                    "name": "动漫",
+                    "name": "电视剧",
                     "times": {
                         "updated": 0,
                         "created": 0
                     },
-                    "_ui": {
+                     "id": "2",
+                    "type": "category",
+                    "ns": "video"
+                     "_ui": {
                         "layout": {
                             "y": 1,
                             "x": 2,
@@ -1344,9 +1347,6 @@
                         },
                         "type": "metro_cell_banner"
                     },
-                    "id": "3",
-                    "type": "category",
-                    "ns": "video"
                 },
                 {
                     "target": {
@@ -1364,7 +1364,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "电视剧",
+                    "name": "综艺",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1378,7 +1378,7 @@
                         },
                         "type": "metro_cell_banner"
                     },
-                    "id": "2",
+                    "id": "4",
                     "type": "category",
                     "ns": "video"
                 },
@@ -1433,7 +1433,7 @@
                             "pos": {"x":0, "y":400 }
                         }
                     },
-                    "name": "综艺",
+                    "name": "动漫",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1447,7 +1447,7 @@
                         },
                         "type": "metro_cell_banner"
                     },
-                    "id": "4",
+                    "id": "3",
                     "type": "category",
                     "ns": "video"
                 },
