@@ -983,13 +983,9 @@
                     "target": {
                         "type": "item"
                     },
-                     "back": {
+                    "images": {
+                        "back": {
                             "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01OiJJiUlpr/gmj9vgPhOureuX.png",
-                            "ani": { },
-                            "pos": { }
-                        },
-                        "spirit": {
-                            "url": "",
                             "ani": { },
                             "pos": { }
                         }
