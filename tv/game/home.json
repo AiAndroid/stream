@@ -1385,6 +1385,11 @@
                         "back": {
                             "url": "http://file.market.xiaomi.com/download/d07/6ebab501f7352d47d9d51042d87aa16f40df5197/content_sort_variety_bg.png",
                             "ani": { },
+                            "pos": {"x":0, "y":345}
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
                             "pos": { }
                         }
                     },
