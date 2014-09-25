@@ -1330,14 +1330,6 @@
                             "pos": {"x":0, "y":345 }
                         }
                     },
-                    "name": "电视剧",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                     "id": "2",
-                    "type": "category",
-                    "ns": "video"
                      "_ui": {
                         "layout": {
                             "y": 1,
@@ -1347,6 +1339,14 @@
                         },
                         "type": "metro_cell_banner"
                     },
+                    "name": "电视剧",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "id": "2",
+                    "type": "category",
+                    "ns": "video"
                 },
                 {
                     "target": {
