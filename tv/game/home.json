@@ -597,7 +597,7 @@
                 }
             ],
             "images": { },
-            "name":"Game",
+            "name":"应用",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -868,7 +868,7 @@
                 }
             ],
             "images": { },
-            "name": "Category",
+            "name": "分类",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1271,7 +1271,7 @@
                 }
             ],
             "images": { },
-            "name": "Video",
+            "name": "视频",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1626,7 +1626,7 @@
                 }
             ],
             "images": { },
-            "name": "Album",
+            "name": "视频分类",
             "times": {
                 "updated": 0,
                 "created": 0
