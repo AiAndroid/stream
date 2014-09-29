@@ -1311,7 +1311,7 @@
                         "type": "metro_cell"
                     },
                     "id": "5",
-                    "type": "album",
+                    "type": "category",
                     "ns": "video"
                 },
                 {
@@ -1621,7 +1621,7 @@
                         "type": "metro_cell"
                     },
                     "id": "20",
-                    "type": "category",
+                    "type": "album",
                     "ns": "video"
                 }
             ],
