@@ -102,7 +102,9 @@ Display item can be defined as video, game, app, music and so on.
 }
 
 ## Display Item
-{
+
+    "Display Item": [
+        
     "target": {
         "type": "item"
     },
@@ -118,7 +120,7 @@ Display item can be defined as video, game, app, music and so on.
             "pos": {}
         },
         "back": {
-            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p017VHRusz5g/R2BoGcjC9rNir1.png",
+            "url": "http://xxx/fffff.png",
             "ani": {},
             "pos": {}
         },
@@ -145,7 +147,8 @@ Display item can be defined as video, game, app, music and so on.
     "id": "180",
     "type": "item",
     "ns": "game"
-}
+    }]
+
 
 ##Download test APK
 <p>下载测试的APK (download test apk), you can run it at android pad or TV</p>
