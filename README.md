@@ -34,7 +34,7 @@ Display item can be defined as video, game, app, music and so on.
 
     "data": [
         {
-            "items": [],
+            "items": [display items],
             "images": { },
             "name":"应用",
             "times": {
@@ -49,7 +49,7 @@ Display item can be defined as video, game, app, music and so on.
             "ns": "game"
         },
         {
-            "items": [],
+            "items": [display items],
             "images": { },
             "name": "分类",
             "times": {
@@ -64,7 +64,7 @@ Display item can be defined as video, game, app, music and so on.
             "ns": "game"
         },
         {
-            "items": [],
+            "items": [dispay items],
             "images": { },
             "name": "视频",
             "times": {
@@ -79,7 +79,7 @@ Display item can be defined as video, game, app, music and so on.
             "ns": "video"
         },
         {
-            "items": [],
+            "items": [display items],
             "images": { },
             "name": "视频分类",
             "times": {
