@@ -928,8 +928,19 @@
                         },
                         "spirit": {
                             "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01c6uFJsH6W/7vqVrAGtdJEDsZ.png",
-                            "ani": { },
-                            "pos": {"x":0, "y":345 }
+                            "ani": {
+                                "translate": {
+                                    "duration": 500,
+                                    "y_delta": 0,
+                                    "startDelay": 0,
+                                    "interpolator": 0,
+                                    "x_delta": 10
+                                }
+                            },
+                            "pos": {
+                                "y": 0,
+                                "x": 0
+                            }
                         }
                     },
                     "name": "月蚀",
