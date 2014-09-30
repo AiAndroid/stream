@@ -1,5 +1,21 @@
 #Design for TV metro demo
 
+the Metro style is contructed by two elements:
+Album and Display Item
+
+Album can contain multi albums and display items.
+
+Display item can be defined as video, game, app, music and so on.
+
+                Album
+                  |
+             _____________________________________
+             |    ...  |           |       ...    |
+           Album      Album    Display Item     Display Item
+           
+ The main page is defined as Album.
+ 
+
 ![主风格(https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png "应用")
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png" />
@@ -13,7 +29,78 @@
 <a href="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/home.json">Home JSON Sample</a>
 </p>
 
-<p>
+##Album
+{
+
+    "data": [
+        {
+            "items": [],
+            "images": { },
+            "name":"应用",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "recommend",
+            "type": "album",
+            "ns": "game"
+        },
+        {
+            "items": [],
+            "images": { },
+            "name": "分类",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "categories",
+            "type": "album",
+            "ns": "game"
+        },
+        {
+            "items": [],
+            "images": { },
+            "name": "视频",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "recommend",
+            "type": "album",
+            "ns": "video"
+        },
+        {
+            "items": [],
+            "images": { },
+            "name": "视频分类",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "categories",
+            "type": "album",
+            "ns": "video"
+        }
+    ],
+    "preload": {
+        "images": []
+    },
+    "update_time": 0
+
+}
+
 ## Display Item
  "target": {
                         "type": "item"
@@ -58,7 +145,7 @@
                     "type": "item",
                     "ns": "game"
                 }
-</p>
+
 
 <p>下载测试的APK (download test apk), you can run it at android pad or TV</p>
 <a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">Click Download</a>
