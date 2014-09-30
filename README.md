@@ -151,7 +151,7 @@ Display item can be defined as video, game, app, music and so on.
 <p>下载测试的APK (download test apk), you can run it at android pad or TV</p>
 <a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">Click Download</a>
 
-##<a href="mailto:liuhuadong78@gmail.com">Contact US<a/>
+##Welcome to <a href="mailto:liuhuadong78@gmail.com">Contact US<a/>
 
 
 
