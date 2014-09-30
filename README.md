@@ -103,7 +103,7 @@ Display item can be defined as video, game, app, music and so on.
 
 ## Display Item
 
-    <code>{
+    {
         
     "target": {
         "type": "item"
@@ -148,7 +148,7 @@ Display item can be defined as video, game, app, music and so on.
     "type": "item",
     "ns": "game"
     }
-    </code>
+    
 
 
 ##Download test APK
