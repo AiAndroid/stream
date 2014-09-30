@@ -24,6 +24,9 @@ Display item can be defined as video, game, app, music and so on.
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video.png"/>
 
+![主风格(https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png "视频分类")
+<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png"/>
+
 ##Home JSON definition
 <p>
 <a href="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/home.json">Home JSON Sample</a>
