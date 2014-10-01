@@ -6,6 +6,7 @@ Album and Display Item
 Album can contain multi albums and display items.
 
 Display item can be defined as video, game, app, music and so on.
+
 You can deprive your own game/app/video detail item from display item.
 
                 Album
@@ -17,6 +18,7 @@ You can deprive your own game/app/video detail item from display item.
  The main page is also defined as Album.
  
  ##API Style
+ 
  http://host/game(video/app)/item?id=12346
  http://host/game(video/app)/album?id=6464
  http://host/game(video/app)/category?id=123456
