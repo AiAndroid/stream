@@ -1,6 +1,6 @@
 #Design for TV metro demo
 
-the Metro style is contructed by two elements:
+the Metro style is constructed by two kinds of elements:
 Album and Display Item
 
 Album can contain multi albums and display items.
@@ -9,22 +9,22 @@ Display item can be defined as video, game, app, music and so on.
 
                 Album
                   |
-             _____________________________________
+             _____|________________________________
              |    ...  |           |       ...    |
            Album      Album    Display Item     Display Item
            
  The main page is defined as Album.
  
 
-![主风格(https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png "应用")
+##主风格"应用"
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png" />
 
-![主风格(https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png "视频")
+##主风格"视频"
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video.png"/>
 
-![主风格(https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png "视频分类")
+##主风格"视频分类"
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png"/>
 
 ##Home JSON definition
