@@ -19,8 +19,8 @@ You can deprive your own game/app/video detail item from display item.
  
 ##API Style
 
-http://host/game(video/app)/item?id=12346
-http://host/game(video/app)/album?id=6464
+http://host/game(video/app)/item?id=12346</br>
+http://host/game(video/app)/album?id=6464</br>
 http://host/game(video/app)/category?id=123456
  
 ##主风格"应用"
