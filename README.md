@@ -9,9 +9,9 @@ Display item can be defined as video, game, app, music and so on.
 
 You can deprive your own game/app/video detail item from display item.
 
-                Album
-                  |
-             _____|________________________________
+                             Album
+                               |
+             __________________|___________________
              |    ...  |           |       ...    |
            Album      Album    Display Item     Display Item
            
