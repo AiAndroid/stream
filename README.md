@@ -18,6 +18,7 @@ You can deprive your own game/app/video detail item from display item.
  The main page is also defined as Album.
  
 ##API Style
+###API description
 http://host/v1/ns/type/?id=res_id
 ns  : namespace, resource type
 type: item or item list
