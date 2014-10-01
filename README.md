@@ -13,7 +13,7 @@ Display item can be defined as video, game, app, music and so on.
              |    ...  |           |       ...    |
            Album      Album    Display Item     Display Item
            
- The main page is defined as Album.
+ The main page is also defined as Album.
  
 
 ##主风格"应用"
