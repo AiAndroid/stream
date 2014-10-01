@@ -20,8 +20,11 @@ You can deprive your own game/app/video detail item from display item.
 ##API Style
 ###API description
 http://host/v1/ns/type/?id=res_id
+
 ns  : namespace, resource type
+
 type: item or item list
+
 id  : resource id in back-end server system  
 
 ###Details
