@@ -17,13 +17,12 @@ You can deprive your own game/app/video detail item from display item.
            
  The main page is also defined as Album.
  
- ##API Style
- 
- http://host/game(video/app)/item?id=12346
- http://host/game(video/app)/album?id=6464
- http://host/game(video/app)/category?id=123456
- 
+##API Style
 
+http://host/game(video/app)/item?id=12346
+http://host/game(video/app)/album?id=6464
+http://host/game(video/app)/category?id=123456
+ 
 ##主风格"应用"
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png" />
