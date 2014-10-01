@@ -23,15 +23,15 @@ http://host/game(video/app)/item?id=12346</br>
 http://host/game(video/app)/album?id=6464</br>
 http://host/game(video/app)/category?id=123456
  
-##主风格"应用"
+##主风格"应用"(main tab "app/game")
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png" />
 
-##主风格"视频"
+##主风格"视频"(main tab "video")
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video.png"/>
 
-##主风格"视频分类"
+##主风格"视频分类"(main tab "video category")
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png"/>
 
 ##Home JSON definition
