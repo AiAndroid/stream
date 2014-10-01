@@ -18,6 +18,11 @@ You can deprive your own game/app/video detail item from display item.
  The main page is also defined as Album.
  
 ##API Style
+http://host/v1/ns/type/?id=res_id
+ns  : namespace, resource type
+type: item or item list
+id  : resource id in back-end server system  
+
 ###Details
 http://host/game(video/app)/item?id=12346
 return item list
@@ -57,7 +62,7 @@ Album and Category are most same concept.
         {
             "items": [display items],
             "images": { },
-            "name":"应用",
+            "name":"game tab name",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -72,7 +77,7 @@ Album and Category are most same concept.
         {
             "items": [display items],
             "images": { },
-            "name": "分类",
+            "name": "game tab Name",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -87,7 +92,7 @@ Album and Category are most same concept.
         {
             "items": [dispay items],
             "images": { },
-            "name": "视频",
+            "name": "video tab name",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -102,7 +107,7 @@ Album and Category are most same concept.
         {
             "items": [display items],
             "images": { },
-            "name": "视频分类",
+            "name": "video tab name",
             "times": {
                 "updated": 0,
                 "created": 0
