@@ -35,7 +35,7 @@ http://host/game(video/app)/category?id=123456
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_en.png"/>
 
-##tab "video category"(主风格"视频分类")
+##Tab "video category"(主风格"视频分类")
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_list_en.png"/>
 
@@ -116,7 +116,7 @@ http://host/game(video/app)/category?id=123456
 
 }
 
-## Display Item
+##Display Item
 
     {
         
@@ -162,8 +162,8 @@ http://host/game(video/app)/category?id=123456
     "id": "180",
     "type": "item",
     "ns": "game"
-    }
-    
+}
+   
 
 
 ##Download test APK
