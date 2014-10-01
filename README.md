@@ -18,21 +18,26 @@ You can deprive your own game/app/video detail item from display item.
  The main page is also defined as Album.
  
 ##API Style
+Details
+http://host/game(video/app)/item?id=12346
 
-http://host/game(video/app)/item?id=12346</br>
-http://host/game(video/app)/album?id=6464</br>
+Album
+http://host/game(video/app)/album?id=6464
+
+Category
 http://host/game(video/app)/category?id=123456
  
-##主风格"应用"(main tab "app/game")
+##Tab "app/game"(主风格"应用")
 
-<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/main.png" />
+<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/app_en.png" />
 
-##主风格"视频"(main tab "video")
+##Tab "video" (主风格"视频")
 
-<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video.png"/>
+<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_en.png"/>
 
-##主风格"视频分类"(main tab "video category")
-<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/video_cate.png"/>
+##tab "video category"(主风格"视频分类")
+
+<img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_list_en.png"/>
 
 ##Home JSON definition
 <p>
