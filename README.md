@@ -18,13 +18,13 @@ You can deprive your own game/app/video detail item from display item.
  The main page is also defined as Album.
  
 ##API Style
-Details
+###Details
 http://host/game(video/app)/item?id=12346
 
-Album
+###Album
 http://host/game(video/app)/album?id=6464
 
-Category
+###Category
 http://host/game(video/app)/category?id=123456
  
 ##Tab "app/game"(主风格"应用")
