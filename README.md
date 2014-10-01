@@ -20,13 +20,19 @@ You can deprive your own game/app/video detail item from display item.
 ##API Style
 ###Details
 http://host/game(video/app)/item?id=12346
+return item list
 
 ###Album
 http://host/game(video/app)/album?id=6464
+return album
 
 ###Category
 http://host/game(video/app)/category?id=123456
+return album
  
+Note:
+Album and Category are most same concept. 
+
 ##Tab "app/game"(主风格"应用")
 
 <img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/app_en.png" />
