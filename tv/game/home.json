@@ -597,7 +597,7 @@
                 }
             ],
             "images": { },
-            "name":"App",
+            "name":"游戏",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -625,7 +625,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "Book News",
+                    "name": "新书咨询",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -672,7 +672,7 @@
                             }
                         }
                     },
-                    "name": "Entertainment",
+                    "name": "娱乐",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -708,7 +708,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "Life Tools",
+                    "name": "生活工具",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -740,7 +740,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "Education & Learning",
+                    "name": "教育学习",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -776,7 +776,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "Video & Music",
+                    "name": "视频音乐",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -812,7 +812,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "Book News",
+                    "name": "阅读",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -848,7 +848,7 @@
                         },
                         "spirit": { }
                     },
-                    "name": "iHeath",
+                    "name": "健康",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -868,7 +868,7 @@
                 }
             ],
             "images": { },
-            "name": "App List",
+            "name": "游戏分类",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1282,7 +1282,7 @@
                 }
             ],
             "images": { },
-            "name": "Video",
+            "name": "视频",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1307,7 +1307,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Documentary",
+                    "name": "纪录片",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1336,7 +1336,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "TV Play",
+                    "name": "电视剧",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1404,7 +1404,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Education",
+                    "name": "教育",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1433,7 +1433,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Catoon",
+                    "name": "卡通",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1501,7 +1501,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Movie",
+                    "name": "电影",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1530,7 +1530,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Le Kan",
+                    "name": "乐看",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1588,7 +1588,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "E-Sports",
+                    "name": "电子竞技",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1617,7 +1617,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Le Documentary",
+                    "name": "乐看记录片",
                     "times": {
                         "updated": 0,
                         "created": 0
