@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="tvmetro : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>tvmetro</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/AiAndroid/stream">View on GitHub</a>
+
+          <h1 id="project_title">tvmetro</h1>
+          <h2 id="project_tagline"></h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/AiAndroid/stream/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/AiAndroid/stream/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a name="design-for-tv-metro-demo" class="anchor" href="#design-for-tv-metro-demo"><span class="octicon octicon-link"></span></a>Design for TV metro demo</h1>
+
+<p>the Metro style is constructed by two kinds of elements:
+Album and Display Item</p>
+
+<p>Album can contain multi albums and display items.</p>
+
+<p>Display item can be defined as video, game, app, music and so on.</p>
+
+<p>You can deprive your own game/app/video detail item from display item.</p>
+
+<pre><code>                         Album
+                           |
+         __________________|___________________
+         |    ...  |           |       ...    |
+       Album      Album    Display Item     Display Item
+</code></pre>
+
+<p>The main page is also defined as Album.</p>
+
+<h2>
+<a name="api-style" class="anchor" href="#api-style"><span class="octicon octicon-link"></span></a>API Style</h2>
+
+<h3>
+<a name="api-description" class="anchor" href="#api-description"><span class="octicon octicon-link"></span></a>API description</h3>
+
+<p>http://host/v1/ns/type/?id=res_id</p>
+
+<p>ns  : namespace, resource type</p>
+
+<p>type: item or item list</p>
+
+<p>id  : resource id in back-end server system  </p>
+
+<h3>
+<a name="details" class="anchor" href="#details"><span class="octicon octicon-link"></span></a>Details</h3>
+
+<p>http://host/game(video/app)/item?id=12346
+return item list</p>
+
+<h3>
+<a name="album" class="anchor" href="#album"><span class="octicon octicon-link"></span></a>Album</h3>
+
+<p>http://host/game(video/app)/album?id=6464
+return album</p>
+
+<h3>
+<a name="category" class="anchor" href="#category"><span class="octicon octicon-link"></span></a>Category</h3>
+
+<p>http://host/game(video/app)/category?id=123456
+return album</p>
+
+<p>Note:
+Album and Category are most same concept. </p>
+
+<h2>
+<a name="tab-appgame%E4%B8%BB%E9%A3%8E%E6%A0%BC%E5%BA%94%E7%94%A8" class="anchor" href="#tab-appgame%E4%B8%BB%E9%A3%8E%E6%A0%BC%E5%BA%94%E7%94%A8"><span class="octicon octicon-link"></span></a>Tab "app/game"(主风格"应用")</h2>
+
+<p><img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/app_en.png"></p>
+
+<h2>
+<a name="tab-video-%E4%B8%BB%E9%A3%8E%E6%A0%BC%E8%A7%86%E9%A2%91" class="anchor" href="#tab-video-%E4%B8%BB%E9%A3%8E%E6%A0%BC%E8%A7%86%E9%A2%91"><span class="octicon octicon-link"></span></a>Tab "video" (主风格"视频")</h2>
+
+<p><img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_en.png"></p>
+
+<h2>
+<a name="tab-video-category%E4%B8%BB%E9%A3%8E%E6%A0%BC%E8%A7%86%E9%A2%91%E5%88%86%E7%B1%BB" class="anchor" href="#tab-video-category%E4%B8%BB%E9%A3%8E%E6%A0%BC%E8%A7%86%E9%A2%91%E5%88%86%E7%B1%BB"><span class="octicon octicon-link"></span></a>Tab "video category"(主风格"视频分类")</h2>
+
+<p><img src="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/en/video_list_en.png"></p>
+
+<h2>
+<a name="home-json-definition" class="anchor" href="#home-json-definition"><span class="octicon octicon-link"></span></a>Home JSON definition</h2>
+
+<p>
+<a href="https://raw.githubusercontent.com/AiAndroid/stream/master/tv/game/home.json">Home JSON Sample</a>
+</p>
+
+<h2>
+<a name="album-1" class="anchor" href="#album-1"><span class="octicon octicon-link"></span></a>Album</h2>
+
+<p>{</p>
+
+<pre><code>"data": [
+    {
+        "items": [display items],
+        "images": { },
+        "name":"game tab name",
+        "times": {
+            "updated": 0,
+            "created": 0
+        },
+        "_ui": {
+            "type": "metro"
+        },
+        "id": "recommend",
+        "type": "album",
+        "ns": "game"
+    },
+    {
+        "items": [display items],
+        "images": { },
+        "name": "game tab Name",
+        "times": {
+            "updated": 0,
+            "created": 0
+        },
+        "_ui": {
+            "type": "metro"
+        },
+        "id": "categories",
+        "type": "album",
+        "ns": "game"
+    },
+    {
+        "items": [dispay items],
+        "images": { },
+        "name": "video tab name",
+        "times": {
+            "updated": 0,
+            "created": 0
+        },
+        "_ui": {
+            "type": "metro"
+        },
+        "id": "recommend",
+        "type": "album",
+        "ns": "video"
+    },
+    {
+        "items": [display items],
+        "images": { },
+        "name": "video tab name",
+        "times": {
+            "updated": 0,
+            "created": 0
+        },
+        "_ui": {
+            "type": "metro"
+        },
+        "id": "categories",
+        "type": "album",
+        "ns": "video"
+    }
+],
+"preload": {
+    "images": []
+},
+"update_time": 0
+</code></pre>
+
+<p>}</p>
+
+<h2>
+<a name="display-item" class="anchor" href="#display-item"><span class="octicon octicon-link"></span></a>Display Item</h2>
+
+<pre><code>{
+
+"target": {
+    "type": "item"
+},
+"images": {
+    "text": {
+        "url": "",
+        "ani": {},
+        "pos": {}
+    },
+    "icon": {
+        "url": "",
+        "ani": {},
+        "pos": {}
+    },
+    "back": {
+        "url": "http://xxx/fffff.png",
+        "ani": {},
+        "pos": {}
+    },
+    "spirit": {
+        "url": "",
+        "ani": {},
+        "pos": {}
+    }
+},
+"name": "高德地图",
+"times": {
+    "updated": 1404466152,
+    "created": 1404454443
+},
+"_ui": {
+    "type": "metro_cell_banner",
+    "layout": {
+        "y": 1,
+        "x": 1,
+        "w": 1,
+        "h": 2
+    }
+},
+"id": "180",
+"type": "item",
+"ns": "game"
+</code></pre>
+
+<p>}</p>
+
+<h2>
+<a name="download-test-apk" class="anchor" href="#download-test-apk"><span class="octicon octicon-link"></span></a>Download test APK</h2>
+
+<p>下载测试的APK (download test apk), you can run it at android pad or TV</p>
+
+<p><a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">Click Download</a></p>
+
+<h2>
+<a name="welcome-to-contact-us" class="anchor" href="#welcome-to-contact-us"><span class="octicon octicon-link"></span></a>Welcome to <a href="mailto:liuhuadong78@gmail.com">Contact US</a>
+</h2>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">tvmetro maintained by <a href="https://github.com/AiAndroid">AiAndroid</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
