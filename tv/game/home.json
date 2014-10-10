@@ -1634,6 +1634,35 @@
                     "id": "20",
                     "type": "album",
                     "ns": "video"
+                },
+                 {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://collection.sinaimg.cn/fcys/20120920/U5566P1081T2D85620F6DT20120920163130.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "我的收藏",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 11,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "favor",
+                    "type": "category",
+                    "ns": "video"
                 }
             ],
             "images": { },
