@@ -1467,7 +1467,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Sports",
+                    "name": "体育",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1654,7 +1654,7 @@
                     "_ui": {
                         "layout": {
                             "y": 1,
-                            "x": 11,
+                            "x": 12,
                             "w": 1,
                             "h": 2
                         },
