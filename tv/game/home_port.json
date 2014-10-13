@@ -542,8 +542,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 6,
-                            "x": 1,
+                            "y": 5,
+                            "x": 3,
                             "w": 1,
                             "h": 1
                         }
@@ -588,7 +588,7 @@
                         "type": "metro_cell_banner",
                         "layout": {
                             "y": 6,
-                            "x": 3,
+                            "x": 1,
                             "w": 1,
                             "h": 1
                         }
@@ -1412,6 +1412,6 @@
     ],
     "preload": {
     },
-    "update_time": 2,
+    "update_time": 3,
     "base_url":"http://172.27.15.23:7071/v2/"
 }
