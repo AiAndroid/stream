@@ -802,6 +802,6 @@
     ],
     "preload": {
     },
-    "update_time": 0,
+    "update_time": 1,
     "base_url":"http://172.27.15.23:7071/v2/"
 }
