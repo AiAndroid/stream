@@ -1394,7 +1394,37 @@
                     "id": "favor",
                     "type": "category",
                     "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://epaper.oeeee.com/C/res/1/525/2008-11/16/GB23/res01_attpic_brief.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "观看历史",
+                    "times": {
+                        "updted": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 7,
+                            "x": 2,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "history",
+                    "type": "category",
+                    "ns": "video"
                 }
+                
             ],
             "images": { },
             "name": "视频分类",
@@ -1412,6 +1442,6 @@
     ],
     "preload": {
     },
-    "update_time": 4,
+    "update_time": 5,
     "base_url":"http://tv.mitvos.com/v2/"
 }
