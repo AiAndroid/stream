@@ -1256,35 +1256,6 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/aa16cf97-7c89-4e5b-89ef-243b4ba4b25b/dk204_1677721600_601_20140818162528_1.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "乐看",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 3,
-                            "x": 2,
-                            "w": 2,
-                            "h": 1
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "17",
-                    "type": "category",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
                             "url": "http://file.market.xiaomi.com/download/Duokan/88d42f07-b2e5-4b2b-8dda-95d0324c00cb/34a8331b9d7bac23bc3cc1a77fa70351.jpg",
                             "ani": { },
                             "pos": { }
@@ -1298,7 +1269,7 @@
                     "_ui": {
                         "layout": {
                             "y": 3,
-                            "x": 4,
+                            "x": 2,
                             "w": 1,
                             "h": 2
                         },
@@ -1326,8 +1297,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
-                            "x": 1,
+                            "y": 3,
+                            "x": 3,
                             "w": 1,
                             "h": 2
                         },
@@ -1355,8 +1326,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
-                            "x": 2,
+                            "y": 3,
+                            "x": 4,
                             "w": 1,
                             "h": 2
                         },
@@ -1385,13 +1356,42 @@
                     "_ui": {
                         "layout": {
                             "y": 5,
-                            "x": 3,
+                            "x": 1,
                             "w": 1,
                             "h": 2
                         },
                         "type": "metro_cell"
                     },
                     "id": "favor",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/aa16cf97-7c89-4e5b-89ef-243b4ba4b25b/dk204_1677721600_601_20140818162528_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "乐看",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 5,
+                            "x": 2,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "17",
                     "type": "category",
                     "ns": "video"
                 }
