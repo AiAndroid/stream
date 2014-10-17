@@ -1414,13 +1414,13 @@
                     "_ui": {
                         "layout": {
                             "y": 7,
-                            "x": 1,
+                            "x": 2,
                             "w": 1,
                             "h": 2
                         },
                         "type": "metro_cell"
                     },
-                    "id": "favor",
+                    "id": "history",
                     "type": "category",
                     "ns": "video"
                 }
@@ -1442,6 +1442,6 @@
     ],
     "preload": {
     },
-    "update_time": 4,
+    "update_time": 5,
     "base_url":"http://tv.mitvos.com/v2/"
 }
