@@ -227,8 +227,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 3,
-                            "x": 1,
+                            "y": 1,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -271,8 +271,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 3,
-                            "x": 2,
+                            "y": 2,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -316,7 +316,7 @@
                         "type": "metro_cell_banner",
                         "layout": {
                             "y": 3,
-                            "x": 3,
+                            "x": 1,
                             "w": 1,
                             "h": 1
                         }
@@ -366,8 +366,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 4,
-                            "x": 1,
+                            "y": 3,
+                            "x": 2,
                             "w": 2,
                             "h": 1
                         }
@@ -410,8 +410,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 4,
-                            "x": 3,
+                            "y": 3,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -454,7 +454,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 1,
                             "w": 1,
                             "h": 1
@@ -498,7 +498,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 2,
                             "w": 1,
                             "h": 1
@@ -542,7 +542,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 3,
                             "w": 1,
                             "h": 1
@@ -587,8 +587,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 6,
-                            "x": 1,
+                            "y": 4,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
