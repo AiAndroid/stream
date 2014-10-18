@@ -618,6 +618,286 @@
                         "type": "item"
                     },
                     "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://img2.imgtn.bdimg.com/it/u=3958403674,1057096664&fm=23&gp=0.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "汪峰",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 1,
+                            "x": 1,
+                            "w": 1,
+                            "h": 2
+                        }
+                    },
+                    "id": "1",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://pic.secoo.com/product/240/240/38/84/201211063884.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "爱码士",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 1,
+                            "x": 2,
+                            "w": 1,
+                            "h": 1
+                        }
+                    },
+                    "id": "2",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://a.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30%3Bt%3Dgif/sign=e4cc11f38db1cb132a643441bc3d3d2b/b999a9014c086e06cdf1455702087bf40ad1cb55.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "The Power Of Love",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 2,
+                            "x": 2,
+                            "w": 1,
+                            "h": 1
+                        }
+                    },
+                    "id": "3",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://www.people.com.cn/mediafile/pic/20141013/68/14506961309068077812.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name":"中国好声音",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 1,
+                            "x": 3,
+                            "w": 1,
+                            "h": 2
+                        }
+                    },
+                    "id": "4",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://www.thmz.com/liv_loadfile/col29/col65/fold12/1263179430_99671700.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name":"外婆家的澎湖湾",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 1,
+                            "x": 4,
+                            "w": 2,
+                            "h": 1
+                        }
+                    },
+                    "id": "5",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://img4.imgtn.bdimg.com/it/u=1759542394,1411265616&fm=15&gp=0.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name":"美丽的草原我的家",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 2,
+                            "x": 4,
+                            "w": 2,
+                            "h": 1
+                        }
+                    },
+                    "id": "6",
+                    "type": "item",
+                    "ns": "music"
+                }
+            ],
+            "images": { },
+            "name":"音乐之声",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "recommend",
+            "type": "album",
+            "ns": "game"
+        },
+        {
+            "items": [
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
                         "back": {
                             "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01plTuGi9Rp/U6bRNkCpwcXY6N.jpg",
                             "ani": { },
