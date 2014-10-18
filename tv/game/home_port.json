@@ -889,7 +889,7 @@
             },
             "id": "recommend",
             "type": "album",
-            "ns": "game"
+            "ns": "music"
         },
         {
             "items": [
