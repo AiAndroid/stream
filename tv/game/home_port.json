@@ -823,8 +823,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 1,
-                            "x": 4,
+                            "y": 3,
+                            "x": 1,
                             "w": 2,
                             "h": 1
                         }
@@ -867,8 +867,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 2,
-                            "x": 4,
+                            "y": 4,
+                            "x": 1,
                             "w": 2,
                             "h": 1
                         }
