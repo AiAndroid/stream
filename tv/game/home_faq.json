@@ -428,7 +428,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "纪录片",
+                    "name": "在线视频",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -457,7 +457,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "电视剧",
+                    "name": "小米家庭音响",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -491,7 +491,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "Variety",
+                    "name": "蓝牙遥控器",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -525,7 +525,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "教育",
+                    "name": "支付",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -554,7 +554,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "卡通",
+                    "name": "手机助手",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -588,7 +588,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "体育",
+                    "name": "软件安装",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -622,7 +622,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "电影",
+                    "name": "游戏手柄",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -651,7 +651,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "乐看",
+                    "name": "小米盒子",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -680,7 +680,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "义方",
+                    "name": "有线电视",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -709,7 +709,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "电子竞技",
+                    "name": "智能家居",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -724,93 +724,6 @@
                         "type": "metro_cell"
                     },
                     "id": "19",
-                    "type": "category",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/05b609ec-c0ad-476c-9ce9-5403ffa52b2d/dk988274_20140922095850_b1080.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "乐看记录片",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 1,
-                            "x": 11,
-                            "w": 1,
-                            "h": 2
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "20",
-                    "type": "album",
-                    "ns": "video"
-                },
-                 {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://collection.sinaimg.cn/fcys/20120920/U5566P1081T2D85620F6DT20120920163130.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "我的收藏",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 1,
-                            "x": 12,
-                            "w": 1,
-                            "h": 2
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "favor",
-                    "type": "category",
-                    "ns": "video"
-                },
-                       {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://epaper.oeeee.com/C/res/1/525/2008-11/16/GB23/res01_attpic_brief.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "观看历史",
-                    "times": {
-                        "updted": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 1,
-                            "x": 13,
-                            "w": 1,
-                            "h": 2
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "history",
                     "type": "category",
                     "ns": "video"
                 }
