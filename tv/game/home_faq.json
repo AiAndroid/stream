@@ -142,35 +142,6 @@
                 },
                 {
                     "target": {
-                        "type": "item"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/90a/179fcd0d7a499da261e39b6897abaab66a83615d/dk213_20121129203255_s1080.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "霍元甲",
-                    "times": {
-                        "updated": 1406944533,
-                        "created": 1350477969
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 2,
-                            "x": 8,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell_banner"
-                    },
-                    "id": "213",
-                    "type": "item",
-                    "ns": "video"
-                },
-                {
-                    "target": {
                         "type": "album"
                     },
                     "images": {
@@ -224,35 +195,6 @@
                         "type": "metro_cell_banner"
                     },
                     "id": "696",
-                    "type": "item",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/25a/37e3e756fae9a4a09de6364223d0a9a5fe5ed477/dk717_20130201202539_b720.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "Hello，小姐",
-                    "times": {
-                        "updated": 1409162210,
-                        "created": 1397787375
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 1,
-                            "x": 8,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell_banner"
-                    },
-                    "id": "717",
                     "type": "item",
                     "ns": "video"
                 },
@@ -340,64 +282,6 @@
                         "type": "metro_cell_banner"
                     },
                     "id": "879",
-                    "type": "item",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/ee5/de8743e0a5e480f5b3bcce63e861474afb2097f2/dk1840_20120921133511_b720.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "有话好好说",
-                    "times": {
-                        "updated": 1406946557,
-                        "created": 1350478063
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 2,
-                            "x": 7,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell_banner"
-                    },
-                    "id": "1840",
-                    "type": "item",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/2fe/4270a8f9ae678ee218e33a122767622f6ab0b55d/dk855126_20130124041134_b720.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "龙城岁月",
-                    "times": {
-                        "updated": 1409158581,
-                        "created": 1397787155
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 1,
-                            "x": 7,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell_banner"
-                    },
-                    "id": "855126",
                     "type": "item",
                     "ns": "video"
                 }
