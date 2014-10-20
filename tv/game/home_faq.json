@@ -287,7 +287,7 @@
                 }
             ],
             "images": { },
-            "name": "Q&A",
+            "name": "米粉之家",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -626,6 +626,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 0,
+    "update_time": 1,
     "base_url":"http://tv.mitvos.com/v2/"
 }
