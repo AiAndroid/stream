@@ -26,7 +26,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell"
+                        "type": "metro_cell_title"
                     },
                     "id": "983197",
                     "type": "item",
@@ -76,7 +76,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "987347",
                     "type": "item",
