@@ -41,27 +41,6 @@
                             "url": "http://www.chaoshao.net/uploadfile/2014/0919/20140919055634488.jpg",
                             "ani": { },
                             "pos": { }
-                        },
-                        "icon": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01j50W8yRC2/Q8CeNiNLFBu6Ew.png",
-                            "ani": { },
-                            "pos": {"x":0, "y":345 }
-                        },
-                        "spirit": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01c6uFJsH6W/7vqVrAGtdJEDsZ.png",
-                            "ani": {
-                                "translate": {
-                                    "duration": 500,
-                                    "y_delta": 0,
-                                    "startDelay": 0,
-                                    "interpolator": 0,
-                                    "x_delta": 10
-                                }
-                            },
-                            "pos": {
-                                "y": 0,
-                                "x": 0
-                            }
                         }
                     },
                     "name": "玩转小米家庭音响",
@@ -626,6 +605,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 6,
+    "update_time": 7,
     "base_url":"http://tv.mitvos.com/v2/"
 }
