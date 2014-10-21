@@ -1,0 +1,610 @@
+{
+
+    "data": [
+        {
+            "items": [
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://imgsrc.baidu.com/baike/pic/item/b17eca8065380cd7ed807c78a344ad345882818d.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "LeiJun show how to setup route",
+                    "times": {
+                        "updated": 1409161567,
+                        "created": 1401424855
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 1,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "983197",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "album"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://news.k618.cn/xda/201405/W020140515787433027835.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Play Xiaomi Soundbar",
+                    "times": {
+                        "updated": 1409162544,
+                        "created": 1407982497
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 2,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "987347",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://img2.paipaiimg.com//81046f93/item-0097B2FD-8A53C11100000000000A3B520822191A.0.300x300.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Car Sound Device",
+                    "times": {
+                        "updated": 1406950917,
+                        "created": 1398690242
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 5,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "982125",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01shnaa7gKl/98UnssjDNwXMAZ.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 3,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "name": "Recommend App",
+                    "times": {
+                        "updated": 1387526511,
+                        "created": 1376617877
+                    },
+                    "id": "109",
+                    "type": "item",
+                    "ns": "game"
+                },
+                {
+                    "target": {
+                        "type": "album"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://jssq.vnet.cn/Upload/Catch/img4.cache.netease.com/ent/2010/4/3/2010040309421613ef0.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Watch Holleywood",
+                    "times": {
+                        "updated": 1406946528,
+                        "created": 1397787776
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 4,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "695",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://www.pingjiata.com/uploadfiles/20130905/1378386790.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Xiaomi Product publish",
+                    "times": {
+                        "updated": 1409167788,
+                        "created": 1349856799
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 2,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "696",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://h.hiphotos.bdimg.com/album/w%3D2048/sign=6d634438d6ca7bcb7d7bc02f8a316a63/9213b07eca80653813bad9e896dda144ac3482fc.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "HongKong",
+                    "times": {
+                        "updated": 1406947938,
+                        "created": 1349853434
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 4,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "719",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://imgsrc.baidu.com/forum/w%3D580/sign=155b9433b64543a9f51bfac42e168a7b/c8da044e251f95ca778ad871c8177f3e650952ce.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Brothers",
+                    "times": {
+                        "updated": 1406944370,
+                        "created": 1350477877
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 6,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "755",
+                    "type": "item",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://www.fwtd.cn/uploads/allimg/130204/1-1302042151125K.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Xiaomi Box",
+                    "times": {
+                        "updated": 1406944296,
+                        "created": 1350477837
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 6,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell_title"
+                    },
+                    "id": "879",
+                    "type": "item",
+                    "ns": "video"
+                }
+            ],
+            "images": { },
+            "name": "Mi-Fans",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "recommend",
+            "type": "album",
+            "ns": "mitvfaq"
+        },
+        {
+            "items": [
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/ac400950-303a-4e31-8615-8aa98e344366/dk204_2139095050_601_20140828154303_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Online Video",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 1,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "5",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/d1431eff-d20b-48da-a62a-4a51e0c699b0/dk204_33554432_601_20140825164044_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "SoundBar",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 2,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "2",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
+                            "ani": { },
+                            "pos": {"x":0, "y":345}
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Blootooth RC",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 3,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "4",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/d07/6ebab501f7352d47d9d51042d87aa16f40df5197/content_sort_variety_bg.png",
+                            "ani": { },
+                            "pos": {"x":0, "y":345}
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Payment",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 4,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "7",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/f2a67e48-37aa-4f48-a749-4140045fef12/dk204_50331648_601_20140818162509_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Mobile Assist",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 5,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "3",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/541/c281cf4dc153518ebbfc1de15ea59aaff09fa6bc/content_sort_music_bg.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Software Install",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 6,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "8",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Game Handler",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 7,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "1",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/aa16cf97-7c89-4e5b-89ef-243b4ba4b25b/dk204_1677721600_601_20140818162528_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Mi Box",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 8,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "17",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/88d42f07-b2e5-4b2b-8dda-95d0324c00cb/34a8331b9d7bac23bc3cc1a77fa70351.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "TV",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 9,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "18",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/d1d/2a76e5182d674608f9877b44dd9d103af286b49b/dk952868_20130415111126_b1080.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "Smart House",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 10,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "19",
+                    "type": "category",
+                    "ns": "video"
+                }
+            ],
+            "images": { },
+            "name": "Category",
+            "times": {
+                "updated": 0,
+                "created": 0
+            },
+            "_ui": {
+                "type": "metro"
+            },
+            "id": "categories",
+            "type": "album",
+            "ns": "mitvfaq"
+        }
+    ],
+    "update_time": 0,
+    "base_url":"http://tv.mitvos.com/v2/"
+}
