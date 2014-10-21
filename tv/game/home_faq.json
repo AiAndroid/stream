@@ -67,7 +67,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/ad597e3e-b4b8-4ec3-bed0-95d143ddb005/dk982125_20140430180408_b720.jpg",
+                            "url": "http://img2.paipaiimg.com//81046f93/item-0097B2FD-8A53C11100000000000A3B520822191A.0.300x300.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -125,7 +125,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01yPwXDncs1/KUjiUzoiqpwR4e.jpg",
+                            "url": "http://jssq.vnet.cn/Upload/Catch/img4.cache.netease.com/ent/2010/4/3/2010040309421613ef0.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -171,7 +171,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "696",
                     "type": "item",
@@ -229,7 +229,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "755",
                     "type": "item",
@@ -258,7 +258,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "879",
                     "type": "item",
@@ -605,6 +605,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 7,
+    "update_time": 8,
     "base_url":"http://tv.mitvos.com/v2/"
 }
