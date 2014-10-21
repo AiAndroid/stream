@@ -38,7 +38,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p017GWy2GK5S/g10GeGQ0FHZCaA.jpg",
+                            "url": "http://img2.imgtn.bdimg.com/it/u=1982306333,3321509749&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         },
@@ -64,7 +64,7 @@
                             }
                         }
                     },
-                    "name": "手机玩转小米家庭音响，100万正在用",
+                    "name": "玩转小米家庭音响",
                     "times": {
                         "updated": 1409162544,
                         "created": 1407982497
@@ -626,6 +626,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 4,
+    "update_time": 5,
     "base_url":"http://tv.mitvos.com/v2/"
 }
