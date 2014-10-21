@@ -105,7 +105,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "696",
                     "type": "item",
@@ -129,7 +129,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "name": "推荐位应用",
                     "times": {
@@ -281,7 +281,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "879",
                     "type": "item",
@@ -628,6 +628,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 0,
+    "update_time": 1,
     "base_url":"http://tv.mitvos.com/v2/"
 }
