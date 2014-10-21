@@ -38,7 +38,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img2.imgtn.bdimg.com/it/u=1982306333,3321509749&fm=23&gp=0.jpg",
+                            "url": "http://www.chaoshao.net/uploadfile/2014/0919/20140919055634488.jpg",
                             "ani": { },
                             "pos": { }
                         },
@@ -626,6 +626,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 5,
+    "update_time": 6,
     "base_url":"http://tv.mitvos.com/v2/"
 }
