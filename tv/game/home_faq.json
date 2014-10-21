@@ -9,12 +9,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01plTuGi9Rp/U6bRNkCpwcXY6N.jpg",
+                            "url": "http://imgsrc.baidu.com/baike/pic/item/b17eca8065380cd7ed807c78a344ad345882818d.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "教你玩转F4，100万人观看",
+                    "name": "雷军教你装小米路由器",
                     "times": {
                         "updated": 1409161567,
                         "created": 1401424855
@@ -626,6 +626,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 3,
+    "update_time": 4,
     "base_url":"http://tv.mitvos.com/v2/"
 }
