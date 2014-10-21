@@ -38,7 +38,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://www.chaoshao.net/uploadfile/2014/0919/20140919055634488.jpg",
+                            "url": "http://news.k618.cn/xda/201405/W020140515787433027835.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -605,6 +605,6 @@
             "ns": "mitvfaq"
         }
     ],
-    "update_time": 9,
+    "update_time": 10,
     "base_url":"http://tv.mitvos.com/v2/"
 }
