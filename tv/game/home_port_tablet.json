@@ -227,8 +227,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 3,
-                            "x": 1,
+                            "y": 1,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -271,8 +271,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 3,
-                            "x": 2,
+                            "y": 2,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -316,7 +316,7 @@
                         "type": "metro_cell_banner",
                         "layout": {
                             "y": 3,
-                            "x": 3,
+                            "x": 1,
                             "w": 1,
                             "h": 1
                         }
@@ -366,8 +366,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 4,
-                            "x": 1,
+                            "y": 3,
+                            "x": 2,
                             "w": 2,
                             "h": 1
                         }
@@ -410,8 +410,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 4,
-                            "x": 3,
+                            "y": 3,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -454,7 +454,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 1,
                             "w": 1,
                             "h": 1
@@ -498,7 +498,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 2,
                             "w": 1,
                             "h": 1
@@ -542,7 +542,7 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 3,
                             "w": 1,
                             "h": 1
@@ -587,8 +587,8 @@
                     "_ui": {
                         "type": "metro_cell_banner",
                         "layout": {
-                            "y": 6,
-                            "x": 1,
+                            "y": 4,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         }
@@ -710,8 +710,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 2,
-                            "x": 2,
+                            "y": 1,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         },
@@ -735,7 +735,7 @@
                     "_ui": {
                         "layout": {
                             "y": 2,
-                            "x": 3,
+                            "x": 2,
                             "w": 1,
                             "h": 1
                         },
@@ -768,8 +768,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 3,
-                            "x": 1,
+                            "y": 2,
+                            "x": 3,
                             "w": 1,
                             "h": 1
                         },
@@ -797,8 +797,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 3,
-                            "x": 2,
+                            "y": 2,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         },
@@ -827,7 +827,7 @@
                     "_ui": {
                         "layout": {
                             "y": 3,
-                            "x": 3,
+                            "x": 1,
                             "w": 1,
                             "h": 1
                         },
@@ -855,8 +855,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 4,
-                            "x": 1,
+                            "y": 3,
+                            "x": 2,
                             "w": 2,
                             "h": 1
                         },
@@ -884,8 +884,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 4,
-                            "x": 3,
+                            "y": 3,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         },
@@ -913,7 +913,7 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 1,
                             "w": 1,
                             "h": 1
@@ -942,7 +942,7 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 2,
                             "w": 1,
                             "h": 1
@@ -971,7 +971,7 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
+                            "y": 4,
                             "x": 3,
                             "w": 1,
                             "h": 1
@@ -1000,8 +1000,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 6,
-                            "x": 1,
+                            "y": 4,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         },
@@ -1108,8 +1108,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 2,
-                            "x": 2,
+                            "y": 1,
+                            "x": 4,
                             "w": 1,
                             "h": 1
                         },
@@ -1143,13 +1143,81 @@
                     "_ui": {
                         "layout": {
                             "y": 2,
-                            "x": 3,
+                            "x": 2,
                             "w": 1,
                             "h": 1
                         },
                         "type": "metro_cell"
                     },
                     "id": "7",
+                    "type": "category",
+                    "ns": "video"
+                },
+                 {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/541/c281cf4dc153518ebbfc1de15ea59aaff09fa6bc/content_sort_music_bg.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "体育",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 3,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "8",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "电影",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 2,
+                            "x": 4,
+                            "w": 1,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "1",
                     "type": "category",
                     "ns": "video"
                 },
@@ -1188,103 +1256,6 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/541/c281cf4dc153518ebbfc1de15ea59aaff09fa6bc/content_sort_music_bg.png",
-                            "ani": { },
-                            "pos": { }
-                        },
-                        "icon": {
-                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "体育",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 3,
-                            "x": 2,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "8",
-                    "type": "category",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
-                            "ani": { },
-                            "pos": { }
-                        },
-                        "icon": {
-                            "url": "http://file.market.xiaomi.com/download/5d3/140136d9e31f3002a67bacc65fa5566c665e1e59/content_sort_title_movie.png",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "电影",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 3,
-                            "x": 3,
-                            "w": 1,
-                            "h": 1
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "1",
-                    "type": "category",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/aa16cf97-7c89-4e5b-89ef-243b4ba4b25b/dk204_1677721600_601_20140818162528_1.jpg",
-                            "ani": { },
-                            "pos": { }
-                        }
-                    },
-                    "name": "乐看",
-                    "times": {
-                        "updated": 0,
-                        "created": 0
-                    },
-                    "_ui": {
-                        "layout": {
-                            "y": 4,
-                            "x": 2,
-                            "w": 2,
-                            "h": 1
-                        },
-                        "type": "metro_cell"
-                    },
-                    "id": "17",
-                    "type": "category",
-                    "ns": "video"
-                },
-                {
-                    "target": {
-                        "type": "item_list"
-                    },
-                    "images": {
-                        "back": {
                             "url": "http://file.market.xiaomi.com/download/Duokan/88d42f07-b2e5-4b2b-8dda-95d0324c00cb/34a8331b9d7bac23bc3cc1a77fa70351.jpg",
                             "ani": { },
                             "pos": { }
@@ -1297,8 +1268,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
-                            "x": 1,
+                            "y": 3,
+                            "x": 2,
                             "w": 1,
                             "h": 2
                         },
@@ -1326,8 +1297,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
-                            "x": 2,
+                            "y": 3,
+                            "x": 3,
                             "w": 1,
                             "h": 2
                         },
@@ -1355,8 +1326,8 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 5,
-                            "x": 3,
+                            "y": 3,
+                            "x": 4,
                             "w": 1,
                             "h": 2
                         },
@@ -1384,7 +1355,7 @@
                     },
                     "_ui": {
                         "layout": {
-                            "y": 7,
+                            "y": 5,
                             "x": 1,
                             "w": 1,
                             "h": 2
@@ -1392,6 +1363,35 @@
                         "type": "metro_cell"
                     },
                     "id": "favor",
+                    "type": "category",
+                    "ns": "video"
+                },
+                {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://file.market.xiaomi.com/download/Duokan/aa16cf97-7c89-4e5b-89ef-243b4ba4b25b/dk204_1677721600_601_20140818162528_1.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "乐看",
+                    "times": {
+                        "updated": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 5,
+                            "x": 2,
+                            "w": 2,
+                            "h": 1
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "17",
                     "type": "category",
                     "ns": "video"
                 }
@@ -1412,6 +1412,6 @@
     ],
     "preload": {
     },
-    "update_time": 4,
+    "update_time": 8,
     "base_url":"http://tv.mitvos.com/v2/"
 }

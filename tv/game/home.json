@@ -594,6 +594,50 @@
                     "id": "681",
                     "type": "item",
                     "ns": "game"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "https://avatars3.githubusercontent.com/u/8860248?v=2&s=460",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "爱码士",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_banner",
+                        "layout": {
+                            "y": 1,
+                            "x": 8,
+                            "w": 1,
+                            "h": 1
+                        }
+                    },
+                    "id": "10000",
+                    "type": "item",
+                    "ns": "game"
                 }
             ],
             "images": { },
@@ -1663,6 +1707,35 @@
                     "id": "favor",
                     "type": "category",
                     "ns": "video"
+                },
+                       {
+                    "target": {
+                        "type": "item_list"
+                    },
+                    "images": {
+                        "back": {
+                            "url": "http://epaper.oeeee.com/C/res/1/525/2008-11/16/GB23/res01_attpic_brief.jpg",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "观看历史",
+                    "times": {
+                        "updted": 0,
+                        "created": 0
+                    },
+                    "_ui": {
+                        "layout": {
+                            "y": 1,
+                            "x": 13,
+                            "w": 1,
+                            "h": 2
+                        },
+                        "type": "metro_cell"
+                    },
+                    "id": "history",
+                    "type": "category",
+                    "ns": "video"
                 }
             ],
             "images": { },
@@ -1711,6 +1784,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 5,
+    "update_time": 7,
     "base_url":"http://tv.mitvos.com/v2/"
 }
