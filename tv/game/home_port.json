@@ -35,7 +35,7 @@
                         "created": 1404454443
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 1,
@@ -93,7 +93,7 @@
                         "created": 0
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 2,
@@ -137,7 +137,7 @@
                         "created": 1392964753
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 2,
                             "x": 2,
@@ -181,7 +181,7 @@
                         "created": 1376617877
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 2,
                             "x": 3,
@@ -225,7 +225,7 @@
                         "created": 1378294032
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 3,
                             "x": 1,
@@ -269,7 +269,7 @@
                         "created": 1378090812
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 3,
                             "x": 2,
@@ -313,7 +313,7 @@
                         "created": 1395399765
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 3,
                             "x": 3,
@@ -364,7 +364,7 @@
                         "created": 0
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 4,
                             "x": 1,
@@ -408,7 +408,7 @@
                         "created": 1401882640
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 4,
                             "x": 3,
@@ -452,7 +452,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 5,
                             "x": 1,
@@ -496,7 +496,7 @@
                         "created": 1378090812
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 5,
                             "x": 2,
@@ -540,7 +540,7 @@
                         "created": 1398650342
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 5,
                             "x": 3,
@@ -585,7 +585,7 @@
                         "created": 1392277260
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 6,
                             "x": 1,
@@ -645,7 +645,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 1,
@@ -689,7 +689,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 2,
@@ -733,7 +733,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 2,
                             "x": 2,
@@ -777,7 +777,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 3,
@@ -821,7 +821,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 3,
                             "x": 1,
@@ -865,7 +865,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 4,
                             "x": 1,
@@ -874,6 +874,50 @@
                         }
                     },
                     "id": "6",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://img2.imgtn.bdimg.com/it/u=3958403674,1057096664&fm=23&gp=0.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "爱码士之歌",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_title",
+                        "layout": {
+                            "y": 3,
+                            "x": 3,
+                            "w": 1,
+                            "h": 2
+                        }
+                    },
+                    "id": "1",
                     "type": "item",
                     "ns": "music"
                 }
@@ -1722,6 +1766,6 @@
     ],
     "preload": {
     },
-    "update_time": 5,
+    "update_time": 6,
     "base_url":"http://tv.mitvos.com/v2/"
 }
