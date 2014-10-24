@@ -645,7 +645,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 1,
@@ -689,7 +689,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 2,
@@ -733,7 +733,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 2,
                             "x": 2,
@@ -777,7 +777,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 1,
                             "x": 3,
@@ -821,7 +821,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 3,
                             "x": 1,
@@ -865,7 +865,7 @@
                         "created": 1403775113
                     },
                     "_ui": {
-                        "type": "metro_cell_banner",
+                        "type": "metro_cell_title",
                         "layout": {
                             "y": 4,
                             "x": 1,
@@ -874,6 +874,50 @@
                         }
                     },
                     "id": "6",
+                    "type": "item",
+                    "ns": "music"
+                },
+                {
+                    "target": {
+                        "type": "item"
+                    },
+                    "images": {
+                        "text": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "icon": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "back": {
+                            "url": "http://img2.imgtn.bdimg.com/it/u=3958403674,1057096664&fm=23&gp=0.jpg",
+                            "ani": { },
+                            "pos": { }
+                        },
+                        "spirit": {
+                            "url": "",
+                            "ani": { },
+                            "pos": { }
+                        }
+                    },
+                    "name": "爱码士之歌",
+                    "times": {
+                        "updated": 1404181894,
+                        "created": 1403775113
+                    },
+                    "_ui": {
+                        "type": "metro_cell_title",
+                        "layout": {
+                            "y": 3,
+                            "x": 3,
+                            "w": 1,
+                            "h": 2
+                        }
+                    },
+                    "id": "1",
                     "type": "item",
                     "ns": "music"
                 }
