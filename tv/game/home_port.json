@@ -960,7 +960,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "983197",
                     "type": "item",
@@ -1010,7 +1010,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "987347",
                     "type": "item",
@@ -1039,7 +1039,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "696",
                     "type": "item",
@@ -1063,7 +1063,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "name": "推荐位应用",
                     "times": {
@@ -1097,7 +1097,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "719",
                     "type": "item",
@@ -1126,7 +1126,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "982125",
                     "type": "item",
@@ -1155,7 +1155,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "755",
                     "type": "item",
@@ -1184,7 +1184,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "695",
                     "type": "item",
@@ -1213,7 +1213,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "879",
                     "type": "item",
@@ -1242,7 +1242,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "855126",
                     "type": "item",
@@ -1271,7 +1271,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "717",
                     "type": "item",
@@ -1300,7 +1300,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "1840",
                     "type": "item",
@@ -1329,7 +1329,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "213",
                     "type": "item",
