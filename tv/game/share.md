@@ -1,14 +1,16 @@
 <html>
 <h1>欢迎光临“爱影士”</h1>
 <body>
-<a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk"><h1>点击下载</h1><a>
+<div>
+<a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">点击下载<a>
+</div>
 </br>
 </br>
 </br>
 </br>
-<p>
+<div>
 同时支持电视和手机，可以通过手机搜索，电视播放
-</p>
+</div>
 <div>电视效果</div>
 <img src="https://github.com/AiAndroid/stream/raw/master/tv/game/video_cate.png" height="300px"/>
 
