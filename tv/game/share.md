@@ -2,7 +2,7 @@
 <h1>欢迎光临“爱影士”</h1>
 <body>
 <div>
-<a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">点击下载<a>
+<a href="https://github.com/AiAndroid/stream/raw/master/tv/game/androidTV.apk">点击下载(微信：选择在浏览器中打开)<a>
 </div>
 </br>
 </br>
