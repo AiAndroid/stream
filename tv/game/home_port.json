@@ -9,7 +9,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://apps.qudong.com/uploads/image/201210/201210221155.jpg",
+                            "url": "http://posters.imdb.cn/ren-pp/0000115/V4ojDNnVW_1191423068.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -1826,6 +1826,6 @@
     ],
     "preload": {
     },
-    "update_time": 9,
+    "update_time": 10,
     "base_url":"http://tv.mitvos.com/v2/"
 }
