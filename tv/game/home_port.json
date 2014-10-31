@@ -9,12 +9,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://posters.imdb.cn/ren-pp/0000115/V4ojDNnVW_1191423068.jpg",
+                            "url": "http://img1.mtime.cn/pi/d/2008/15/20084621041.75704028.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "异教徒",
+                    "name": "死亡契约",
                     "times": {
                         "updated": 1409161567,
                         "created": 1401424855
@@ -28,7 +28,7 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "983197",
+                    "id": "508770",
                     "type": "item",
                     "ns": "video"
                 },
@@ -1805,6 +1805,6 @@
     ],
     "preload": {
     },
-    "update_time": 13,
+    "update_time": 14,
     "base_url":"http://tv.mitvos.com/v2/"
 }
