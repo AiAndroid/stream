@@ -9,7 +9,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01plTuGi9Rp/U6bRNkCpwcXY6N.jpg",
+                            "url": "http://img1.mtime.cn/pi/d/2008/15/20084621041.75704028.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -1784,6 +1784,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 14,
+    "update_time": 15,
     "base_url":"http://tv.mitvos.com/v2/"
 }
