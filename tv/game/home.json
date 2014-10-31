@@ -67,7 +67,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img5.imgtn.bdimg.com/it/u=58042038,1071025229&fm=23&gp=0.jpg",
+                            "url": "http://d04.res.meilishuo.net/picdetail/a/d1/21/9bf697d2f7d661326c5e4d96b8a7_648_648_1_1.c7.jpeg",
                             "ani": { },
                             "pos": { }
                         }
@@ -96,7 +96,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img1.mtime.com/pi/d/2004/10/valen21/20042292251.6576044.jpg",
+                            "url": "http://image.photoworld.com.cn/wp-content/uploads/2013/09/20120903050513666.jpg?imageView2/2/w/640",
                             "ani": { },
                             "pos": { }
                         }
@@ -154,7 +154,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img0.imgtn.bdimg.com/it/u=1856616329,306877735&fm=23&gp=0.jpg",
+                            "url": "http://t10.baidu.com/it/u=2893713588,2752992371&fm=59",
                             "ani": { },
                             "pos": { }
                         }
@@ -1763,6 +1763,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 18,
+    "update_time": 19,
     "base_url":"http://tv.mitvos.com/v2/"
 }
