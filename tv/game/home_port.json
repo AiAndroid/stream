@@ -9,7 +9,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://www.chinadaily.com.cn/hqylss/2006-03/10/xin_41030310172165013364124.jpg",
+                            "url": "http://apps.qudong.com/uploads/image/201210/201210221155.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -1826,6 +1826,6 @@
     ],
     "preload": {
     },
-    "update_time": 8,
+    "update_time": 9,
     "base_url":"http://tv.mitvos.com/v2/"
 }
