@@ -937,7 +937,7 @@
                             "pos": { }
                         }
                     },
-                    "name": "异教徒",
+                    "name": "死亡契约",
                     "times": {
                         "updated": 1409161567,
                         "created": 1401424855
@@ -951,7 +951,7 @@
                         },
                         "type": "metro_cell_banner"
                     },
-                    "id": "983197",
+                    "id": "508770",
                     "type": "item",
                     "ns": "video"
                 },
@@ -1784,6 +1784,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 11,
+    "update_time": 12,
     "base_url":"http://tv.mitvos.com/v2/"
 }
