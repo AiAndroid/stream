@@ -38,33 +38,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p017GWy2GK5S/g10GeGQ0FHZCaA.jpg",
+                            "url": "http://img0.imgtn.bdimg.com/it/u=3073636166,760636672&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
-                        },
-                        "icon": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01j50W8yRC2/Q8CeNiNLFBu6Ew.png",
-                            "ani": { },
-                            "pos": {"x":0, "y":345 }
-                        },
-                        "spirit": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01c6uFJsH6W/7vqVrAGtdJEDsZ.png",
-                            "ani": {
-                                "translate": {
-                                    "duration": 500,
-                                    "y_delta": 0,
-                                    "startDelay": 0,
-                                    "interpolator": 0,
-                                    "x_delta": 10
-                                }
-                            },
-                            "pos": {
-                                "y": 0,
-                                "x": 0
-                            }
                         }
                     },
-                    "name": "月蚀",
+                    "name": "虎胆龙威4",
                     "times": {
                         "updated": 1409162544,
                         "created": 1407982497
@@ -78,7 +57,7 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "987347",
+                    "id": "740367",
                     "type": "item",
                     "ns": "video"
                 },
@@ -1826,6 +1805,6 @@
     ],
     "preload": {
     },
-    "update_time": 12,
+    "update_time": 13,
     "base_url":"http://tv.mitvos.com/v2/"
 }
