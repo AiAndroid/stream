@@ -67,7 +67,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://imgcache.qq.com/music/photo/singer_300/69/300_singerpic_169_0.jpg",
+                            "url": "http://img1.imgtn.bdimg.com/it/u=2159876761,3055694242&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -1805,6 +1805,6 @@
     ],
     "preload": {
     },
-    "update_time": 16,
+    "update_time": 17,
     "base_url":"http://tv.mitvos.com/v2/"
 }
