@@ -26,7 +26,7 @@
                             "w": 1,
                             "h": 2
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "508770",
                     "type": "item",
@@ -76,7 +76,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "736452",
                     "type": "item",
@@ -105,7 +105,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "976158",
                     "type": "item",
@@ -134,7 +134,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "973671",
                     "type": "item",
@@ -158,7 +158,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "name": "推荐位应用",
                     "times": {
@@ -192,7 +192,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "765772",
                     "type": "item",
@@ -221,7 +221,7 @@
                             "w": 2,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "695",
                     "type": "item",
@@ -250,7 +250,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "987144",
                     "type": "item",
@@ -279,7 +279,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "93557",
                     "type": "item",
@@ -308,7 +308,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "755",
                     "type": "item",
@@ -337,7 +337,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "973824",
                     "type": "item",
@@ -366,7 +366,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "1840",
                     "type": "item",
@@ -395,7 +395,7 @@
                             "w": 1,
                             "h": 1
                         },
-                        "type": "metro_cell_banner"
+                        "type": "metro_cell_title"
                     },
                     "id": "984922",
                     "type": "item",
@@ -1784,6 +1784,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 15,
+    "update_time": 16,
     "base_url":"http://tv.mitvos.com/v2/"
 }
