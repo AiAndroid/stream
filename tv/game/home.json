@@ -1301,12 +1301,12 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/2fe/4270a8f9ae678ee218e33a122767622f6ab0b55d/dk855126_20130124041134_b720.jpg",
+                            "url": "http://img1.imgtn.bdimg.com/it/u=3528724564,1115484739&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "龙城岁月",
+                    "name": "阿甘正传",
                     "times": {
                         "updated": 1409158581,
                         "created": 1397787155
@@ -1320,7 +1320,7 @@
                         },
                         "type": "metro_cell_banner"
                     },
-                    "id": "855126",
+                    "id": "984922",
                     "type": "item",
                     "ns": "video"
                 }
@@ -1784,6 +1784,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 10,
+    "update_time": 11,
     "base_url":"http://tv.mitvos.com/v2/"
 }
