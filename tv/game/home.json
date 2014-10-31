@@ -46,22 +46,6 @@
                             "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01j50W8yRC2/Q8CeNiNLFBu6Ew.png",
                             "ani": { },
                             "pos": {"x":0, "y":345 }
-                        },
-                        "spirit": {
-                            "url": "http://image.box.xiaomi.com/mfsv2/download/s010/p01c6uFJsH6W/7vqVrAGtdJEDsZ.png",
-                            "ani": {
-                                "translate": {
-                                    "duration": 500,
-                                    "y_delta": 0,
-                                    "startDelay": 0,
-                                    "interpolator": 0,
-                                    "x_delta": 10
-                                }
-                            },
-                            "pos": {
-                                "y": 0,
-                                "x": 0
-                            }
                         }
                     },
                     "name": "肖申克的救赎",
@@ -1784,6 +1768,6 @@
             "http://image.box.xiaomi.com/mfsv2/download/s010/p01h405dti3t/skYNEt5pNJJeOK.png"
         ]
     },
-    "update_time": 16,
+    "update_time": 17,
     "base_url":"http://tv.mitvos.com/v2/"
 }
