@@ -801,7 +801,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://collection.sinaimg.cn/fcys/20120920/U5566P1081T2D85620F6DT20120920163130.jpg",
+                            "url": "http://img5.imgtn.bdimg.com/it/u=4148061766,1964582729&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -816,7 +816,7 @@
                             "y": 7,
                             "x": 1,
                             "w": 1,
-                            "h": 2
+                            "h": 1
                         },
                         "type": "metro_cell"
                     },
@@ -830,7 +830,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://epaper.oeeee.com/C/res/1/525/2008-11/16/GB23/res01_attpic_brief.jpg",
+                            "url": "http://www.haipic.com/icon/29743/29743.png",
                             "ani": { },
                             "pos": { }
                         }
@@ -845,7 +845,7 @@
                             "y": 7,
                             "x": 2,
                             "w": 1,
-                            "h": 2
+                            "h": 1
                         },
                         "type": "metro_cell"
                     },
@@ -1481,6 +1481,6 @@
     ],
     "preload": {
     },
-    "update_time": 20,
+    "update_time": 21,
     "base_url":"http://tv.mitvos.com/v2/"
 }
