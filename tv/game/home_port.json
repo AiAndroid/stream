@@ -125,7 +125,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img5.imgtn.bdimg.com/it/u=58042038,1071025229&fm=23&gp=0.jpg",
+                            "url": "http://img1.imgtn.bdimg.com/it/u=2566298068,1079470293&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -154,7 +154,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img1.mtime.com/pi/d/2004/10/valen21/20042292251.6576044.jpg",
+                            "url": "http://image.photoworld.com.cn/wp-content/uploads/2013/09/20120903050513666.jpg?imageView2/2/w/640",
                             "ani": { },
                             "pos": { }
                         }
@@ -241,7 +241,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://img0.imgtn.bdimg.com/it/u=1856616329,306877735&fm=23&gp=0.jpg",
+                            "url": "http://t10.baidu.com/it/u=2893713588,2752992371&fm=59",
                             "ani": { },
                             "pos": { }
                         }
@@ -1481,6 +1481,6 @@
     ],
     "preload": {
     },
-    "update_time": 19,
+    "update_time": 20,
     "base_url":"http://tv.mitvos.com/v2/"
 }
