@@ -462,7 +462,7 @@
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/Duokan/ac400950-303a-4e31-8615-8aa98e344366/dk204_2139095050_601_20140828154303_1.jpg",
+                            "url": "http://file.market.xiaomi.com/download/Duokan/d076ca88-8f46-4345-85eb-7e854e8f2c86/dk987144_20140812121529_b1080.jpg",
                             "ani": { },
                             "pos": { }
                         }
@@ -1491,6 +1491,6 @@
     ],
     "preload": {
     },
-    "update_time": 22,
+    "update_time": 23,
     "base_url":"http://tv.mitvos.com/v2/"
 }
