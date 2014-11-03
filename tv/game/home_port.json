@@ -1698,16 +1698,17 @@
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://lx.cdn.baidupcs.com/file/4ac4fc80973281dd25e754bcc06f3e35?bkt=p2-qd-189&xcode=1f74a6b8dd265356d4133217d38e96d9b96704e6eb9e2325837047dfb5e85c39&fid=3372312957-250528-908228239521412&time=1414995444&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-CamtjRLZ9G56Hg5XAFnLZtLPJr0%3D&to=hc&fm=Nan,B,U,nc&sta_dx=1563&sta_cs=298&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=651312906&mlogid=3773426893&vuk=3372312957&vbdid=3565250699&ifn=Seven.Samurai.1954.BD.MiniSD-TLF.mkv&fn=Seven.Samurai.1954.BD.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://pic.newssc.org/0/11/97/78/11977813_606031.jpg",
+                            "url": "http://img31.mtime.cn/mg/2013/11/19/092911.35284369.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "闫妮",
+                    "name": "七武士-黑泽明",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1721,22 +1722,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "闫妮",
+                    "id": "七武士-黑泽明",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://lx.cdn.baidupcs.com/file/c9b9f7425cb3e336aaf648ca7ad1cd2a?bkt=p2-qd-189&xcode=6b1d46975b4d53abeba81f293cedc66719c8a549e0a11460837047dfb5e85c39&fid=3372312957-250528-764146462767334&time=1414995615&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-MVwH%2Bu37Y1PGVMq%2Fa1vrKheFkzc%3D&to=hc&fm=Bei,B,U,nc&sta_dx=1502&sta_cs=403&sta_ft=mkv&sta_ct=3&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=776364687&mlogid=3891142073&vuk=3372312957&vbdid=3565250699&ifn=Titanic.1997.HDTVRip.x264.2AAC.miniSD-TLF.mkv&fn=Titanic.1997.HDTVRip.x264.2AAC.miniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://cmsimg.67.com/upload/images/2012/07/19/c2hpeGkxMzQyNjY3NTYx.jpg",
+                            "url": "http://www.auvplayer.com/ap_img/album/taitannikehao_26/s300_3de16851b3214988dd5d973a6650ce36.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "孙红雷",
+                    "name": "泰坦尼克号",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1750,22 +1752,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "孙红雷",
+                    "id": "泰坦尼克号",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://8.37.233.12/ws.cdn.baidupcs.com/file/ade0901e4efbd25731b0eb537c2c57b2?bkt=p2-qd-189&xcode=77be8eec3857ab4c80e6f183abcb8923174e2fc92d5e4d7f837047dfb5e85c39&fid=3372312957-250528-831319060983413&time=1414995709&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-8im4TyjBSqB64XuDpXwXqC2U6Qw%3D&to=hc&fm=Nan,B,U,nc&sta_dx=1656&sta_cs=229&sta_ft=mkv&sta_ct=3&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=502666041&mlogid=1843790508&vuk=3372312957&vbdid=3565250699&ifn=Avatar.2009.BluRay.2Audio.MiniSD-TLF.mkv&fn=Avatar.2009.BluRay.2Audio.MiniSD-TLF.mkv&wshc_tag=0&wsts_tag=54571eff&wsid_tag=627e0ca2&wsiphost=ipdbm"
                     },
                     "images": {
                         "back": {
-                            "url": "http://img1.cache.netease.com/catchpic/A/A0/A0C54A3D20D2416BF324DA55501EAF06.jpg",
+                            "url": "http://img4.imgtn.bdimg.com/it/u=3816755549,320195405&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "姚笛",
+                    "name": "阿凡达",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1779,7 +1782,7 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "姚笛",
+                    "id": "阿凡达",
                     "type": "search",
                     "ns": "video"
                 }
@@ -2410,6 +2413,6 @@
     ],
     "preload": {
     },
-    "update_time": 30,
+    "update_time": 31,
     "base_url":"http://tv.mitvos.com/v2/"
 }
