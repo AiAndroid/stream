@@ -1458,7 +1458,7 @@
                 },
                 {
                     "target": {
-                        "type": "item_show_direct,
+                        "type": "item_show_direct",
                         "params": "http://qd2.cache.baidupcs.com/file/a569800ea197aeae3e3f61df25996ac8?bkt=p2-qd-189&xcode=20e577360e05c03b7cad257d26f644970feec0397a52d007&fid=3372312957-250528-1123878662008531&time=1414986978&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-kzQfxMPFZeZWiLn33wqatwnCCx4%3D&to=hc,qc2&fm=Nan,Q,U,ny&sta_dx=1582&sta_cs=45&sta_ft=mkv&sta_ct=2&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=788474648&mlogid=1781389093&vuk=3372312957&ifn=Boyhood.2014.HDRip.x264.AAC-FooKaS.mkv&fn=Boyhood.2014.HDRip.x264.AAC-FooKaS.mkv"
                     },
                     "images": {
@@ -2405,6 +2405,6 @@
     ],
     "preload": {
     },
-    "update_time": 28,
+    "update_time": 29,
     "base_url":"http://tv.mitvos.com/v2/"
 }
