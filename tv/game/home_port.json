@@ -1548,16 +1548,17 @@
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://ws.cdn.baidupcs.com/file/183a779acedfc876c7f83d3c1c0e41ca?bkt=p2-qd-189&xcode=222cb93ed0231d073a92da4be6930891b45d4599d11aefa4837047dfb5e85c39&fid=3372312957-250528-680721515330145&time=1414993963&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-sdire47AcGh9YMRnUVtytzQCKgs%3D&to=cb&fm=Nan,B,U,nc&sta_dx=1112&sta_cs=5&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=544367847&mlogid=3869868742&vuk=3372312957&vbdid=3565250699&ifn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv&fn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://img3.yxlady.com/yl/UploadFiles_5361/20130530/2013053015411819.jpg",
+                            "url": "http://movie.chinayes.com/media/0W608/1502_5/2011112417392914037.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "邓超",
+                    "name": "冰血暴",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1571,22 +1572,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "邓超",
+                    "id": "冰血暴",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://lx.cdn.baidupcs.com/file/9cc3d511b9fc36e6f335dfe84c24ad48?bkt=p2-qd-189&xcode=455d46629d07653134fe14cb28d7996ca5246acd404220c9837047dfb5e85c39&fid=3372312957-250528-645728000995339&time=1414994125&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-xacE3zZGyaYm21BgvbdCyA3XE8E%3D&to=hc&fm=Nan,B,U,nc&sta_dx=832&sta_cs=282&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=971094281&mlogid=1248660190&vuk=3372312957&vbdid=3565250699&ifn=No.Country.for.Old.Men.2007.BDRip.x264.2AAC.miniSD-TLF.mkv&fn=No.Country.for.Old.Men.2007.BDRip.x264.2AAC.miniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://ts3.mm.bing.net/th?id=HN.607992663071655588&pid=1.7",
+                            "url": "http://img6.paipaiimg.com/00000000/item-51C3FFF3-0EAD3D0A00000000040100002E00D07A.0.300x300.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "凯文·史派西",
+                    "name": "老无所依",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1600,22 +1602,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "凯文·史派西",
+                    "id": "老无所依",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": ""
                     },
                     "images": {
                         "back": {
-                            "url": "http://ent.cnr.cn/list/201409/W020140917285730544749.jpg",
+                            "url": "http://img21.mtime.cn/pi/2011/06/28/141743.72999170.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "周星驰",
+                    "name": "人工智能",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1629,22 +1632,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "周星驰",
+                    "id": "人工智能",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://lx.cdn.baidupcs.com/file/b7ee84c38fd2b144ad4405746d63443b?bkt=p2-qd-189&xcode=dd953cdde9064a2b23b76bf4257c7547205aa5eda61282b0837047dfb5e85c39&fid=3372312957-250528-226856747803640&time=1414994668&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-NRrHaewMIljBWp2Tq12d7hEPLHw%3D&to=cb&fm=Qin,B,U,nc&sta_dx=1114&sta_cs=16&sta_ft=mkv&sta_ct=3&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=176955624&mlogid=1748546391&vuk=3372312957&vbdid=3565250699&ifn=The.Terminal.2004.BD.2Audio.MiniSD-TLF.mkv&fn=The.Terminal.2004.BD.2Audio.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://images.china.cn/attachement/jpg/site1000/20100422/0019b91ebfca0d3a41770e.jpg",
+                            "url": "http://img4.imgtn.bdimg.com/it/u=1458174997,1654069431&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "王宝强",
+                    "name": "幸福终点站",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1658,22 +1662,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "王宝强",
+                    "id": "幸福终点站",
                     "type": "search",
                     "ns": "video"
                 },
                  {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://124.167.232.82/ws.cdn.baidupcs.com/file/c80b1584ac3167b53b2b633732ef6656?bkt=p2-qd-189&xcode=44713e1925d9a3a62e3cb2695250e24ad20e871d3e17d914837047dfb5e85c39&fid=3372312957-250528-639213851911861&time=1414994842&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-SlJbjw%2BZKiEZrpuSHDB4w919B8g%3D&to=cb&fm=Nan,B,U,nc&sta_dx=861&sta_cs=9&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=363481557&mlogid=1860284249&vuk=3372312957&vbdid=3565250699&ifn=Chinatown.1974.BD.MiniSD-TLF.mkv&fn=Chinatown.1974.BD.MiniSD-TLF.mkv&wshc_tag=0&wsts_tag=54571b9c&wsid_tag=72ff0386&wsiphost=ipdbm"
                     },
                     "images": {
                         "back": {
-                            "url": "http://fashion.lnd.com.cn/pic/attachement/jpg/site1/20130403/6c626d786c3712c5d0f706.jpg",
+                            "url": "http://img1.imgtn.bdimg.com/it/u=3711434569,1416842260&fm=23&gp=0.jpg",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "黄渤",
+                    "name": "唐人街",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1687,7 +1692,7 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "黄渤",
+                    "id": "唐人街",
                     "type": "search",
                     "ns": "video"
                 },
@@ -2405,6 +2410,6 @@
     ],
     "preload": {
     },
-    "update_time": 29,
+    "update_time": 30,
     "base_url":"http://tv.mitvos.com/v2/"
 }
