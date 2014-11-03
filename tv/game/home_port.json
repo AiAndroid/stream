@@ -1368,16 +1368,17 @@
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                         "params": "http://lx.cdn.baidupcs.com/file/032bd4a55cb8d2cb69e1cb691c9517ae?bkt=p-fc82f1feb9c7b2dec2670a1e4e69965b&xcode=647d4d829bf4971ee0900a75f9744360fd6a6da2effe5215837047dfb5e85c39&fid=3372312957-250528-350607575867893&time=1414986253&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-8NgA53ykHzdO8cWgAThkMyX81kA%3D&to=cb&fm=Nan,B,U,nc&sta_dx=872&sta_cs=2&sta_ft=mkv&sta_ct=7&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=596170485&mlogid=1252377125&vuk=3372312957&vbdid=3565250699&ifn=Heaven.2002.BD.MiniSD-TLF.mkv&fn=Heaven.2002.BD.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://www.superiorpics.com/pictures2/FreemanAG010.jpg",
+                            "url": "http://ts4.mm.bing.net/th?id=HN.608014846578131016&pid=1.7",
                             "ani": { },
                             "pos": { }
                         }
                     },
-                    "name": "摩根·弗里曼",
+                    "name": "疾走天堂",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1391,27 +1392,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "摩根·弗里曼",
+                    "id": "疾走天堂",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://ws.cdn.baidupcs.com/file/873ed57dacd031deb9d38e3169975d4d?bkt=p-55be8ed03c5a6be25f974f1cba4514c1&xcode=153e76aa51522fb88a1cf3348bed3398d7712c826683bbd6837047dfb5e85c39&fid=3372312957-250528-36191323040095&time=1414986438&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-chZ8hIhTOyUU%2BOb8q5hK9hysODk%3D&to=cb&fm=Nan,B,U,nc&sta_dx=485&sta_cs=48&sta_ft=mkv&sta_ct=7&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=246159615&mlogid=866777492&vuk=3372312957&vbdid=3565250699&ifn=Run.Lola.Run.1998.BDRip.x264.AAC.MiniSD-TLF.mkv&fn=Run.Lola.Run.1998.BDRip.x264.AAC.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://file.market.xiaomi.com/download/b95/56d5ce9085f6922d566159eeb99166a7e9504c84/content_sort_education_bg_1080.png",
+                            "url": "http://fxp.buychuan.com/upload/MovieStills/2012053013462810795921.jpg",
                             "ani": { },
                             "pos": {"x":0, "y":345}
-                        },
-                        "icon": {
-                            "url": "http://photocdn.sohu.com/20111129/Img327248234.jpg",
-                            "ani": { },
-                            "pos": { }
                         }
                     },
-                    "name": "赵薇",
+                    "name": "罗拉快跑",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1425,22 +1422,23 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "赵薇",
+                    "id": "罗拉快跑",
                     "type": "search",
                     "ns": "video"
                 },
                 {
                     "target": {
-                        "type": "item_list"
+                        "type": "item_show_direct",
+                        "params": "http://ws.cdn.baidupcs.com/file/873ed57dacd031deb9d38e3169975d4d?bkt=p-55be8ed03c5a6be25f974f1cba4514c1&xcode=153e76aa51522fb88a1cf3348bed3398d7712c826683bbd6837047dfb5e85c39&fid=3372312957-250528-36191323040095&time=1414986438&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-chZ8hIhTOyUU%2BOb8q5hK9hysODk%3D&to=cb&fm=Nan,B,U,nc&sta_dx=485&sta_cs=48&sta_ft=mkv&sta_ct=7&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=246159615&mlogid=866777492&vuk=3372312957&vbdid=3565250699&ifn=Run.Lola.Run.1998.BDRip.x264.AAC.MiniSD-TLF.mkv&fn=Run.Lola.Run.1998.BDRip.x264.AAC.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
-                            "url": "http://news.cnhubei.com/xw/yl/201212/W020121219632943155998.jpg",
+                            "url": "http://www.izhizhi.com/attached/20110424173836_57843.bmp",
                             "ani": { },
                             "pos": {"x":0, "y":345}
                         }
                     },
-                    "name":"陈道明",
+                    "name":"香水",
                     "times": {
                         "updated": 0,
                         "created": 0
@@ -1454,7 +1452,7 @@
                         },
                         "type": "metro_cell_title"
                     },
-                    "id": "陈道明",
+                    "id": "香水",
                     "type":"search",
                     "ns": "video"
                 },
@@ -2404,6 +2402,6 @@
     ],
     "preload": {
     },
-    "update_time": 26,
+    "update_time": 27,
     "base_url":"http://tv.mitvos.com/v2/"
 }
