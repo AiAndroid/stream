@@ -1549,7 +1549,7 @@
                 {
                     "target": {
                         "type": "item_show_direct",
-                        "params": "http://ws.cdn.baidupcs.com/file/183a779acedfc876c7f83d3c1c0e41ca?bkt=p2-qd-189&xcode=222cb93ed0231d073a92da4be6930891b45d4599d11aefa4837047dfb5e85c39&fid=3372312957-250528-680721515330145&time=1414993963&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-sdire47AcGh9YMRnUVtytzQCKgs%3D&to=cb&fm=Nan,B,U,nc&sta_dx=1112&sta_cs=5&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=544367847&mlogid=3869868742&vuk=3372312957&vbdid=3565250699&ifn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv&fn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv"
+                        "params": "http://lx.cdn.baidupcs.com/file/183a779acedfc876c7f83d3c1c0e41ca?bkt=p2-qd-189&xcode=280d4cef100451862a4c331581fc039eb45d4599d11aefa4837047dfb5e85c39&fid=3372312957-250528-680721515330145&time=1415065446&sign=FDTAXERB-DCb740ccc5511e5e8fedcff06b081203-l%2F9QjXgufyvw3rg4FSmKU7rVAUc%3D&to=cb&fm=Nan,B,U,nc&sta_dx=1112&sta_cs=12&sta_ft=mkv&sta_ct=5&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=998188890&mlogid=2597681758&vuk=3372312957&vbdid=3565250699&ifn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv&fn=Fargo.1996.REMASTERED.3Audio.BD.MiniSD-TLF.mkv"
                     },
                     "images": {
                         "back": {
@@ -2413,6 +2413,6 @@
     ],
     "preload": {
     },
-    "update_time": 31,
+    "update_time": 32,
     "base_url":"http://tv.mitvos.com/v2/"
 }
