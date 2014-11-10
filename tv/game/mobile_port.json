@@ -1322,7 +1322,7 @@
                 }
             ],
             "images": { },
-            "name": "明星",
+            "name": "精选",
             "times": {
                 "updated": 0,
                 "created": 0
@@ -1337,6 +1337,6 @@
     ],
     "preload": {
     },
-    "update_time": 0,
+    "update_time": 1,
     "base_url":"http://tv.mitvos.com/v2/"
 }
