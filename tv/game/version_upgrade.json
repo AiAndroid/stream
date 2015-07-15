@@ -11,7 +11,7 @@
         }
     }, 
     "upgrade_direct_noimie":"1",
-    "includes": "", 
+    "includes": "mi note pro;mi 4;", 
     "excludes": "", 
     "test_accounts": "",
     "min_miui": "190", 
