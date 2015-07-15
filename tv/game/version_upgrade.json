@@ -12,13 +12,9 @@
     }, 
     "includes": "", 
     "excludes": "", 
-    "test_accounts": {
-        "imei": ""
-    }, 
+    "test_accounts": "",
     "min_miui": "190", 
     "max_miui": "2000", 
-    "percent_upgrade": {
-        "version": "2015071790", 
-        "gray": "20"
-    }
+    "to_version": "2015071790", 
+    "gray": "20"
 }
