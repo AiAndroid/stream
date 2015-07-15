@@ -9,5 +9,18 @@
       "stable": {
           "percent": "0"
       }
+  },
+  "includes":"",
+  "excludes":"",
+  "test_accounts":{
+   "imei":"",
+   "imei":"",
+   "imei":""
+  },
+  "min_miui":"190",
+  "max_miui":"2000",
+  "percent_upgrade":{
+    "version":"2015071790",
+    "gray":"20"
   }
 }
