@@ -1,0 +1,13 @@
+{ 
+ "miui": {
+      "alpha": {
+          "percent": "20"
+      },
+      "dev": {
+          "percent": "0"
+      },
+      "stable": {
+          "percent": "0"
+      }
+  }
+}
