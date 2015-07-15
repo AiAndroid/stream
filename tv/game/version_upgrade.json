@@ -10,6 +10,7 @@
             "percent": "0"
         }
     }, 
+    "upgrade_direct_noimie":"1",
     "includes": "", 
     "excludes": "", 
     "test_accounts": "",
