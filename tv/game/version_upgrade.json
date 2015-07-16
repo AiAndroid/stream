@@ -16,10 +16,10 @@
     "test_accounts": "",
     "min_miui": "190", 
     "max_miui": "2000", 
-    "to_version": "2015071790", 
     "min_android": "16",
     "max_android": "100000",
     "include_miuis": "V4 V5 V6 V7",
     "exclude_miuis": "",
+    "to_version": "2015071790", 
     "gray": "20"
 }
