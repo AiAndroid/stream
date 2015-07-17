@@ -12,6 +12,7 @@
     }, 
     "upgrade_direct_noimie":"1",
     "includes": "mi note pro;mi 4;", 
+    "token": "小米视频",
     "excludes": "", 
     "test_accounts": "",
     "min_miui": "190", 
